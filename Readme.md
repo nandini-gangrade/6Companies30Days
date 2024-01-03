@@ -7,6 +7,7 @@
         <th>Question</th>
         <th>LeetCode Question</th>
         <th>LeetCode Solution</th>
+        <th>Youtube Solution</th>
       </tr>
     </thead>
     <tbody>
@@ -14,6 +15,7 @@
         <td>Q1</td>
         <td><a href="https://leetcode.com/problems/minimize-the-maximum-of-two-arrays/description/">2513. Minimize the Maximum of Two Arrays</a></td>
         <td><a href="https://leetcode.com/problems/minimize-the-maximum-of-two-arrays/solutions/4495857/beats-100-goldman-sachs-easy-challenge/">Solution Link</a></td>
+        <td><iframe width="560" height="315" src="https://www.youtube.com/embed/LdGHlUU8m4w?si=7b8B0oInctY240g4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></td>
       </tr>
       <!-- Add more rows as needed -->
     </tbody>
