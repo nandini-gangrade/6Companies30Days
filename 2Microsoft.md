@@ -18,9 +18,9 @@
       </tr>            
       <tr>
         <td>Q2</td>
-        <td><a href=""></a></td>
+        <td><a href="https://leetcode.com/problems/find-the-winner-of-the-circular-game/description/">1823. Find the Winner of the Circular Game</a></td>
         <td><a href="">Link</a></td>
-        <td><a href=""</a>Click</td>
+        <td><a href="https://youtu.be/NrCLviCeHDc"</a>Click</td>
       </tr>
       <tr>
         <td>Q3</td>
