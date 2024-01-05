@@ -37,14 +37,14 @@
       </tr>
       <tr>
         <td>Q5</td>
-        <td><a href=" "> </a></td>
-        <td><a href=" ">Link</a></td>
+        <td><a href="https://leetcode.com/problems/maximum-sum-bst-in-binary-tree/description/">1373. Maximum Sum BST in Binary Tree</a></td>
+        <td><a href="https://leetcode.com/problems/maximum-sum-bst-in-binary-tree/solutions/4511073/beats-99-of-users-goldman-sachs-easy-challenge/">Link</a></td>
         <td><a href=" ">Click</a></td>
       </tr>
       <tr>
         <td>Q6</td>
-        <td><a href=" "> </a></td>
-        <td><a href=" ">Link</a></td>
+        <td><a href="https://leetcode.com/problems/maximum-sum-bst-in-binary-tree/description/">1373. Maximum Sum BST in Binary Tree</a></td>
+        <td><a href="https://leetcode.com/problems/maximum-sum-bst-in-binary-tree/solutions/4511073/beats-99-of-users-goldman-sachs-easy-challenge/">Link</a></td>
         <td><a href=" ">Link</a></td>
       </tr>
       <tr>
