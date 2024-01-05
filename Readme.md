@@ -62,14 +62,14 @@
       </tr>
       <tr>
         <td>Q9</td>
-        <td><a href=" "> </a></td>
-        <td><a href=" ">Link</a></td>
+        <td><a href="https://leetcode.com/problems/find-consecutive-integers-from-a-data-stream/">2526. Find Consecutive Integers from a Data Stream</a></td>
+        <td><a href="https://leetcode.com/problems/find-consecutive-integers-from-a-data-stream/solutions/4512567/beats-97-of-users-goldman-sachs-easy-challenge/">Link</a></td>
 <!--         <td><a href=" ">Link</a></td> -->
       </tr>
       <tr>
         <td>Q10</td>
-        <td><a href=" "> </a></td>
-        <td><a href=" ">Link</a></td>
+        <td><a href="https://www.geeksforgeeks.org/problems/find-missing-and-repeating2512/1">Find Missing And Repeating</a></td>
+        <td><a href="https://discuss.geeksforgeeks.org/comment/73579204-15bd-41df-894d-adf9dfd8e7ff/practice">Link</a></td>
         <td><a href=" ">Link</a></td>
       </tr>
       <tr>
