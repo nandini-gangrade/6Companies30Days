@@ -11,7 +11,7 @@
     <tbody>
       <tr>
         <td>1</td>
-        <td><a href=""></a></td>
+        <td><a href="https://github.com/nandini-gangrade/6Companies30Days/blob/main/1GoldmanSachs.md">Goldman Sachs</a></td>
       <tr>
       <tr>
         <td>2</td>
