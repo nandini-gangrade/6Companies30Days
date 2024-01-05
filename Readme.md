@@ -21,25 +21,25 @@
         <td>Q2</td>
         <td><a href="https://www.geeksforgeeks.org/problems/run-length-encoding/1">Run Length Encoding</a></td>
         <td><a href="https://discuss.geeksforgeeks.org/comment/18ad2404-571a-48db-9b11-4a7a1acc4bb7/practice">Link</a></td>
-        <td><a href=""</a>Link</td>
+        <td><a href=""</a>Click</td>
      </tr>     
      <tr>
         <td>Q3</td>
         <td><a href="https://leetcode.com/problems/number-of-ways-to-reach-a-position-after-exactly-k-steps/description/">2400. Number of Ways to Reach a Position After Exactly k Steps</a></td>
         <td><a href="https://leetcode.com/problems/number-of-ways-to-reach-a-position-after-exactly-k-steps/solutions/4507867/beats-100-goldman-sachs-easy-challenge/">Link</a></td>
-        <td><a href=""</a>Link</td>
+        <td><a href=""</a>Click</td>
       </tr>
       <tr>
         <td>Q4</td>
-        <td><a href=" "> </a></td>
-        <td><a href=" ">Link</a></td>
-        <td><a href=" ">Link</a></td>
+        <td><a href="https://leetcode.com/problems/number-of-people-aware-of-a-secret/">2327. Number of People Aware of a Secret</a></td>
+        <td><a href="https://leetcode.com/problems/number-of-people-aware-of-a-secret/solutions/3035749/goldman-sachs-adobe-well-explained-easy-challenge/">Link</a></td>
+        <td><a href=" ">Click</a></td>
       </tr>
       <tr>
         <td>Q5</td>
         <td><a href=" "> </a></td>
         <td><a href=" ">Link</a></td>
-        <td><a href=" ">Link</a></td>
+        <td><a href=" ">Click</a></td>
       </tr>
       <tr>
         <td>Q6</td>
