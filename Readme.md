@@ -94,13 +94,13 @@
         <td>Q14</td>
         <td><a href="https://leetcode.com/problems/query-kth-smallest-trimmed-number/description/">2343. Query Kth Smallest Trimmed Number</a></td>
         <td><a href="https://leetcode.com/problems/query-kth-smallest-trimmed-number/solutions/3065543/goldman-sachs-adobe-easy-challenge/">Link</a></td>
-        <td><a href=" ">Link</a></td>
+<!--         <td><a href=" ">Link</a></td> -->
       </tr>
       <tr>
         <td>Q15</td>
-        <td><a href=" "> </a></td>
-        <td><a href=" ">Link</a></td>
-        <td><a href=" ">Link</a></td>
+        <td><a href="https://leetcode.com/problems/high-access-employees/description/">2933. High-Access Employees</a></td>
+        <td><a href="https://leetcode.com/problems/high-access-employees/solutions/4513123/beats-92-of-users-goldman-sachs-easy-challenge/">Link</a></td>
+<!--         <td><a href=" ">Link</a></td> -->
       </tr>
     </tbody>
   </table>
