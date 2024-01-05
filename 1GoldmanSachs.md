@@ -6,7 +6,7 @@
         <th>S No.</th>
         <th>Question</th>
         <th>Solution</th>
-<!--         <th>Youtube</th> -->
+        <th>Youtube</th>
       </tr>
     </thead>    
     <tbody>
@@ -14,7 +14,7 @@
         <td>Q1</td>
         <td><a href="https://leetcode.com/problems/minimize-the-maximum-of-two-arrays/description/">2513. Minimize the Maximum of Two Arrays</a></td>
         <td><a href="https://leetcode.com/problems/minimize-the-maximum-of-two-arrays/solutions/4495857/beats-100-goldman-sachs-easy-challenge/">Link</a></td>
-<!--         <td><a href="https://youtu.be/LdGHlUU8m4w?si=Y11N7d0eTogBMBzo"</a>Click</td> -->
+        <td><a href="https://youtu.be/LdGHlUU8m4w?si=Y11N7d0eTogBMBzo"</a>Click</td>
       </tr>            
       <tr>
         <td>Q2</td>
@@ -26,7 +26,7 @@
         <td>Q3</td>
         <td><a href="https://leetcode.com/problems/number-of-ways-to-reach-a-position-after-exactly-k-steps/description/">2400. Number of Ways to Reach a Position After Exactly k Steps</a></td>
         <td><a href="https://leetcode.com/problems/number-of-ways-to-reach-a-position-after-exactly-k-steps/solutions/4507867/beats-100-goldman-sachs-easy-challenge/">Link</a></td>
-<!--         <td><a href=""</a>Click</td> -->
+        <td><a href="https://youtu.be/bynK7g22tfs"</a>Click</td>
       </tr>
       <tr>
         <td>Q4</td>
