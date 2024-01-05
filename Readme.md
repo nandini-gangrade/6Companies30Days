@@ -49,14 +49,15 @@
       </tr>
       <tr>
         <td>Q7</td>
-        <td><a href=" "> </a></td>
-        <td><a href=" ">Link</a></td>
+        <td><a href="https://leetcode.com/problems/k-divisible-elements-subarrays/">2261. K Divisible Elements Subarrays
+</a></td>
+        <td><a href="https://leetcode.com/problems/k-divisible-elements-subarrays/solutions/4512426/beats-100-of-users-goldman-sachs-easy-challenge/">Link</a></td>
 <!--         <td><a href=" ">Link</a></td> -->
       </tr>
       <tr>
         <td>Q8</td>
-        <td><a href=" "> </a></td>
-        <td><a href=" ">Link</a></td>
+        <td><a href="https://www.geeksforgeeks.org/problems/number-following-a-pattern3126/1">Number following a pattern</a></td>
+        <td><a href="https://discuss.geeksforgeeks.org/comment/0bb63398-8a79-47bd-afdc-f4c83e514366/practice">Link</a></td>
 <!--         <td><a href=" ">Link</a></td> -->
       </tr>
       <tr>
