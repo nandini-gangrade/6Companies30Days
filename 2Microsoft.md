@@ -14,7 +14,7 @@
         <td>Q1</td>
         <td><a href="https://leetcode.com/problems/circle-and-rectangle-overlapping/">1401. Circle and Rectangle Overlapping</a></td>
         <td><a href="">Link</a></td>
-        <td><a href=""</a>Click</td>
+        <td><a href="https://youtu.be/vz-FujXr_DQ"</a>Click</td>
       </tr>            
       <tr>
         <td>Q2</td>
