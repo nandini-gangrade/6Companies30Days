@@ -1,6 +1,6 @@
 <a href = "https://www.proelevate.in/dsa-practice/6-companies-30-days">#ReviseWithArsh #6Companies30Days 2k24👆🏻</a>
 ---
-<h5>1. Goldman Sachs</h5>
+<h4>1. Goldman Sachs</h4>
 <table>    
     <thead>
       <tr>
