@@ -7,7 +7,7 @@
         <th>S No.</th>
         <th>Question</th>
         <th>Solution</th>
-        <th>Youtube Solution</th>
+        <th>Youtube</th>
       </tr>
     </thead>    
     <tbody>
@@ -15,7 +15,7 @@
         <td>Q1</td>
         <td><a href="https://leetcode.com/problems/minimize-the-maximum-of-two-arrays/description/">2513. Minimize the Maximum of Two Arrays</a></td>
         <td><a href="https://leetcode.com/problems/minimize-the-maximum-of-two-arrays/solutions/4495857/beats-100-goldman-sachs-easy-challenge/">Link</a></td>
-        <td><a href="https://youtu.be/LdGHlUU8m4w?si=Y11N7d0eTogBMBzo"</a>Youtube Link</td>
+        <td><a href="https://youtu.be/LdGHlUU8m4w?si=Y11N7d0eTogBMBzo"</a>Click</td>
       </tr>            
       <tr>
         <td>Q2</td>
