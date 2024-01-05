@@ -101,7 +101,5 @@
         <td><a href=" ">Link</a></td>
         <td><a href=" ">Link</a></td>
       </tr>
-      
     </tbody>
-    
   </table>
