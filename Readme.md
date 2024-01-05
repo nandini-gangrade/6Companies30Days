@@ -80,20 +80,20 @@
       </tr>
       <tr>
         <td>Q12</td>
-        <td><a href=" "> </a></td>
-        <td><a href=" ">Link</a></td>
+        <td><a href="https://leetcode.com/problems/random-flip-matrix/description/">519. Random Flip Matrix</a></td>
+        <td><a href="https://leetcode.com/problems/random-flip-matrix/solutions/4512824/beats-99-of-users-goldman-sachs-easy-challenge/">Link</a></td>
 <!--         <td><a href=" ">Link</a></td> -->
       </tr>
       <tr>
         <td>Q13</td>
-        <td><a href=" "> </a></td>
-        <td><a href=" ">Link</a></td>
+        <td><a href="https://leetcode.com/problems/combination-sum-iii/description/">216. Combination Sum III</a></td>
+        <td><a href="https://leetcode.com/problems/combination-sum-iii/solutions/2994199/3ms-goldman-sachs-easy-challenge/">Link</a></td>
 <!--         <td><a href=" ">Link</a></td> -->
       </tr>
       <tr>
         <td>Q14</td>
-        <td><a href=" "> </a></td>
-        <td><a href=" ">Link</a></td>
+        <td><a href="https://leetcode.com/problems/query-kth-smallest-trimmed-number/description/">2343. Query Kth Smallest Trimmed Number</a></td>
+        <td><a href="https://leetcode.com/problems/query-kth-smallest-trimmed-number/solutions/3065543/goldman-sachs-adobe-easy-challenge/">Link</a></td>
         <td><a href=" ">Link</a></td>
       </tr>
       <tr>
