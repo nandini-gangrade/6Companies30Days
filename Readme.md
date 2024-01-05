@@ -70,25 +70,25 @@
         <td>Q10</td>
         <td><a href="https://www.geeksforgeeks.org/problems/find-missing-and-repeating2512/1">Find Missing And Repeating</a></td>
         <td><a href="https://discuss.geeksforgeeks.org/comment/73579204-15bd-41df-894d-adf9dfd8e7ff/practice">Link</a></td>
-        <td><a href=" ">Link</a></td>
+<!--         <td><a href=" ">Link</a></td> -->
       </tr>
       <tr>
         <td>Q11</td>
-        <td><a href=" "> </a></td>
-        <td><a href=" ">Link</a></td>
-        <td><a href=" ">Link</a></td>
+        <td><a href="https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/">17. Letter Combinations of a Phone Number</a></td>
+        <td><a href="https://leetcode.com/problems/letter-combinations-of-a-phone-number/solutions/4512687/beats-100-of-users-goldman-sachs-easy-challenge/">Link</a></td>
+<!--         <td><a href=" ">Link</a></td> -->
       </tr>
       <tr>
         <td>Q12</td>
         <td><a href=" "> </a></td>
         <td><a href=" ">Link</a></td>
-        <td><a href=" ">Link</a></td>
+<!--         <td><a href=" ">Link</a></td> -->
       </tr>
       <tr>
         <td>Q13</td>
         <td><a href=" "> </a></td>
         <td><a href=" ">Link</a></td>
-        <td><a href=" ">Link</a></td>
+<!--         <td><a href=" ">Link</a></td> -->
       </tr>
       <tr>
         <td>Q14</td>
