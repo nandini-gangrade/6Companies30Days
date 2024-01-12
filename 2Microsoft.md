@@ -36,32 +36,32 @@
       </tr>
       <tr>
         <td>Q5</td>
-        <td><a href=""></a></td>
-        <td><a href="">Link</a></td>
+        <td><a href="https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/description/">462. Minimum Moves to Equal Array Elements II</a></td>
+        <td><a href="https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/solutions/4552469/microsoft-easy-solution-challenge/">Link</a></td>
         <td><a href=""</a>Click</td>
       </tr>
       <tr>
         <td>Q6</td>
-        <td><a href=""></a></td>
-        <td><a href="">Link</a></td>
+        <td><a href="https://leetcode.com/problems/random-point-in-non-overlapping-rectangles/">497. Random Point in Non-overlapping Rectangles</a></td>
+        <td><a href="https://leetcode.com/problems/random-point-in-non-overlapping-rectangles/solutions/4552480/microsoft-easy-solution-challenge/">Link</a></td>
         <td><a href=""</a>Click</td>
       </tr>
       <tr>
         <td>Q7</td>
-        <td><a href=""></a></td>
-        <td><a href="">Link</a></td>
+        <td><a href="https://leetcode.com/problems/bulls-and-cows/">299. Bulls and Cows</a></td>
+        <td><a href="https://leetcode.com/problems/bulls-and-cows/solutions/2994433/microsoft-easy-solution-challenge/">Link</a></td>
         <td><a href=""</a>Click</td>
       </tr>
       <tr>
         <td>Q8</td>
-        <td><a href=""></a></td>
-        <td><a href="">Link</a></td>
+        <td><a href="https://leetcode.com/problems/count-number-of-nice-subarrays/description/">1248. Count Number of Nice Subarrays</a></td>
+        <td><a href="https://leetcode.com/problems/count-number-of-nice-subarrays/solutions/4552518/microsoft-easy-solution-challenge/">Link</a></td>
         <td><a href=""</a>Click</td>
       </tr>
       <tr>
         <td>Q9</td>
-        <td><a href=""></a></td>
-        <td><a href="">Link</a></td>
+        <td><a href="https://leetcode.com/problems/repeated-dna-sequences/description/">187. Repeated DNA Sequences</a></td>
+        <td><a href="https://leetcode.com/problems/repeated-dna-sequences/solutions/4552536/microsoft-easy-solution-challenge/">Link</a></td>
         <td><a href=""</a>Click</td>
       </tr>
       <tr>
