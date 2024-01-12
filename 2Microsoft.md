@@ -24,14 +24,14 @@
       </tr>
       <tr>
         <td>Q3</td>
-        <td><a href=""></a></td>
-        <td><a href="">Link</a></td>
+        <td><a href="https://leetcode.com/problems/russian-doll-envelopes/description/">354. Russian Doll Envelopes</a></td>
+        <td><a href="https://leetcode.com/problems/russian-doll-envelopes/solutions/4552430/microsoft-easy-solution-challenge/">Link</a></td>
         <td><a href=""</a>Click</td>
       </tr>
       <tr>
         <td>Q4</td>
-        <td><a href=""></a></td>
-        <td><a href="">Link</a></td>
+        <td><a href="https://leetcode.com/problems/image-smoother/">661. Image Smoother</a></td>
+        <td><a href="https://leetcode.com/problems/image-smoother/solutions/4552457/microsoft-easy-solution-challenge/">Link</a></td>
         <td><a href=""</a>Click</td>
       </tr>
       <tr>
