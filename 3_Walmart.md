@@ -12,14 +12,14 @@
     <tbody>
       <tr>
         <td>Q1</td>
-        <td><a href=""></a></td>
-        <td><a href="">Link</a></td>
+        <td><a href="https://leetcode.com/problems/largest-divisible-subset/description/">368. Largest Divisible Subset</a></td>
+        <td><a href="https://leetcode.com/problems/largest-divisible-subset/solutions/2999416/walmart-easy-solution-challenge/">Link</a></td>
         <td><a href=""</a>Click</td>
       </tr>
       <tr>
         <td>Q2</td>
-        <td><a href=""></a></td>
-        <td><a href="">Link</a></td>
+        <td><a href="https://leetcode.com/problems/find-subsequence-of-length-k-with-the-largest-sum/description/">2099. Find Subsequence of Length K With the Largest Sum</a></td>
+        <td><a href="https://leetcode.com/problems/find-subsequence-of-length-k-with-the-largest-sum/solutions/4560174/walmart-easy-solution-challenge/">Link</a></td>
         <td><a href=""</a>Click</td>
       </tr>
       <tr>
