@@ -48,8 +48,8 @@
       </tr>
       <tr>
         <td>Q7</td>
-        <td><a href=""></a></td>
-        <td><a href="">Link</a></td>
+        <td><a href="https://leetcode.com/problems/k-diff-pairs-in-an-array/description/">532. K-diff Pairs in an Array</a></td>
+        <td><a href="https://leetcode.com/problems/k-diff-pairs-in-an-array/solutions/4562977/walmart-challenge-easy-solution/">Link</a></td>
         <td><a href=""</a>Click</td>
       </tr>
       <tr>
