@@ -60,19 +60,19 @@
       </tr>
       <tr>
         <td>Q9</td>
-        <td><a href=""></a></td>
-        <td><a href="">Link</a></td>
+        <td><a href="https://leetcode.com/problems/maximum-length-of-repeated-subarray/description/">718. Maximum Length of Repeated Subarray</a></td>
+        <td><a href="https://leetcode.com/problems/maximum-length-of-repeated-subarray/solutions/4563419/walmart-challenge-easy-solution/">Link</a></td>
         <td><a href=""</a>Click</td>
       </tr>
       <tr>
         <td>Q10</td>
-        <td><a href=""></a></td>
-        <td><a href="">Link</a></td>
+        <td><a href="https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree/description/">331. Verify Preorder Serialization of a Binary Tree</a></td>
+        <td><a href="https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree/solutions/4563434/walmart-challenge-easy-solution/">Link</a></td>
         <td><a href=""</a>Click</td>
       </tr>
       <tr>
         <td>Q11</td>
-        <td><a href=""></a></td>
+        <td><a href="https://leetcode.com/problems/top-k-frequent-words/description/">692. Top K Frequent Words</a></td>
         <td><a href="">Link</a></td>
         <td><a href=""</a>Click</td>
       </tr>
