@@ -24,14 +24,14 @@
       </tr>
       <tr>
         <td>Q3</td>
-        <td><a href=""></a></td>
-        <td><a href="">Link</a></td>
+        <td><a href="https://leetcode.com/problems/amount-of-time-for-binary-tree-to-be-infected/description/?envType=daily-question&envId=2024-01-10">2385. Amount of Time for Binary Tree to Be Infected</a></td>
+        <td><a href="https://leetcode.com/problems/amount-of-time-for-binary-tree-to-be-infected/solutions/4562967/walmart-challenge-easy-solution/">Link</a></td>
         <td><a href=""</a>Click</td>
       </tr>    
       <tr>
         <td>Q4</td>
-        <td><a href=""></a></td>
-        <td><a href="">Link</a></td>
+        <td><a href="https://leetcode.com/problems/count-the-number-of-square-free-subsets/description/">2572. Count the Number of Square-Free Subsets</a></td>
+        <td><a href="https://leetcode.com/problems/count-the-number-of-square-free-subsets/solutions/4563148/walmart-challenge-easy-solution/">Link</a></td>
         <td><a href=""</a>Click</td>
       </tr>
       <tr>
