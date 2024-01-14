@@ -54,8 +54,8 @@
       </tr>
       <tr>
         <td>Q8</td>
-        <td><a href=""></a></td>
-        <td><a href="">Link</a></td>
+        <td><a href="https://leetcode.com/problems/friends-of-appropriate-ages/description/">825. Friends Of Appropriate Ages</a></td>
+        <td><a href="https://leetcode.com/problems/friends-of-appropriate-ages/solutions/4563296/walmart-challenge-easy-solution/">Link</a></td>
         <td><a href=""</a>Click</td>
       </tr>
       <tr>
