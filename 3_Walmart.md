@@ -36,14 +36,14 @@
       </tr>
       <tr>
         <td>Q5</td>
-        <td><a href=""></a></td>
-        <td><a href="">Link</a></td>
+        <td><a href="https://leetcode.com/problems/rotate-function/description/">396. Rotate Function</a></td>
+        <td><a href="https://leetcode.com/problems/rotate-function/solutions/2998660/walmart-challenge-easy-solution/">Link</a></td>
         <td><a href=""</a>Click</td>
       </tr>
       <tr>
         <td>Q6</td>
-        <td><a href=""></a></td>
-        <td><a href="">Link</a></td>
+        <td><a href="https://leetcode.com/problems/get-equal-substrings-within-budget/description/">1208. Get Equal Substrings Within Budget</a></td>
+        <td><a href="https://leetcode.com/problems/get-equal-substrings-within-budget/solutions/4563244/walmart-challenge-easy-solution/">Link</a></td>
         <td><a href=""</a>Click</td>
       </tr>
       <tr>
